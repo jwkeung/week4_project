@@ -14,6 +14,8 @@ public class CheckoutServiceTest {
 	        @Override
 	        public boolean pay(String userId, double amount) {
 	            return true; // success
+	            
+	            //Adding function here.
 	        }
 	    }
 	
