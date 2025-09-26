@@ -17,6 +17,9 @@ class FixedClockStub implements ClockProvider {
 	@Override public LocalDate today() { 
         // your implementation here
 		return fixed_date;
+		
+		// Adding new functions here, version 2
+		
      }
 }
 
